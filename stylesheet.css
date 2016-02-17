@@ -123,3 +123,6 @@ li {
   cursor:pointer;
   color: #556270;
 }
+#social-links {
+  border-radius: 10px;
+}
